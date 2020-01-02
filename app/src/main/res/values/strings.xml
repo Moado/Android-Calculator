@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="digit_.">.</string>
+
+    <string name="op_clearall">AC</string>
+    <string name="op_clear">C</string>
+    <string name="op_add">+</string>
+    <string name="op_subtract">-</string>
+    <string name="op_multiply">*</string>
+    <string name="op_divide">/</string>
+    <string name="op_equals">=</string>
+    <string name="op_negate">+/-</string>
+
+    <string name="memory">M+</string>
+
+</resources>
